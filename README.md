@@ -1,2 +1,21 @@
-# FSM_PlayerController
- 
+# Unity FSM Player Controller
+
+유니티에서 FSM(Finite State Machine)을 사용해 만든 플레이어 컨트롤러 연습 프로젝트입니다.
+
+## 개요
+- FSM을 이용한 플레이어 상태 관리 구현
+- 기본적인 플레이어 동작 구현 (이동, 점프 등)
+- 상태 패턴 학습 목적의 프로젝트
+
+## 구현된 기능
+- 기본 이동 및 점프
+- FSM을 통한 상태 관리
+- 간단한 애니메이션 연동
+
+## 사용 방법
+1. 프로젝트 다운로드
+2. Unity에서 프로젝트 열기
+3. MainScene 실행
+
+## 개발 환경
+- Unity 6000.0.32f1
